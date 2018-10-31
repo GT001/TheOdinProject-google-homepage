@@ -3,3 +3,5 @@ From the Odin Project's [curiculum](http://www.theodinproject.com/courses/webdev
 The page recreates the google homepage using html and css.
 
 Does not emulate responsive design yet.
+
+[View in Browser](https://gt001.github.io/TheOdinProject-google-homepage/)
